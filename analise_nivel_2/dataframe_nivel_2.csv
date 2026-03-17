@@ -1,0 +1,121 @@
+cliente,produto,cidade,quantidade,preco_unitario,categoria,valor_total
+Bruno,Webcam,Curitiba,3,932,Periféricos,2796
+Bruno,Headset,Curitiba,5,553,Periféricos,2765
+Ana,Teclado,Rio,4,674,Periféricos,2696
+Daniela,Headset,Curitiba,2,2947,Periféricos,5894
+Helena,Notebook,Salvador,1,3194,Hardware,3194
+Ana,Headset,Rio,1,2816,Periféricos,2816
+Eduardo,Notebook,Belo Horizonte,4,3018,Hardware,12072
+Bruno,Headset,Belo Horizonte,2,1467,Periféricos,2934
+Gabriel,Teclado,Belo Horizonte,1,989,Periféricos,989
+Fernanda,Mouse,Salvador,1,2977,Periféricos,2977
+Gabriel,Monitor,Salvador,5,1573,Hardware,7865
+Bruno,Teclado,São Paulo,5,343,Periféricos,1715
+Fernanda,Teclado,Salvador,2,1884,Periféricos,3768
+Helena,Headset,São Paulo,4,2988,Periféricos,11952
+Ana,Headset,Salvador,1,1590,Periféricos,1590
+Fernanda,Headset,Curitiba,3,123,Periféricos,369
+Gabriel,Webcam,São Paulo,3,1588,Periféricos,4764
+Carlos,Teclado,Rio,5,1908,Periféricos,9540
+Helena,Headset,Rio,3,3127,Periféricos,9381
+Eduardo,Monitor,Curitiba,2,387,Hardware,774
+Bruno,Headset,São Paulo,1,2058,Periféricos,2058
+Carlos,Monitor,Salvador,1,2207,Hardware,2207
+Carlos,Monitor,Rio,3,2709,Hardware,8127
+Helena,Mouse,Belo Horizonte,4,2434,Periféricos,9736
+Daniela,Webcam,Curitiba,4,2613,Periféricos,10452
+Ana,Webcam,São Paulo,3,1695,Periféricos,5085
+Bruno,Webcam,Rio,2,2265,Periféricos,4530
+Daniela,Headset,Curitiba,1,100,Periféricos,100
+Carlos,Mouse,Rio,2,2751,Periféricos,5502
+Gabriel,Mouse,Rio,5,2728,Periféricos,13640
+Helena,Notebook,Belo Horizonte,2,373,Hardware,746
+Carlos,Headset,Salvador,4,2960,Periféricos,11840
+Ana,Webcam,Salvador,4,2027,Periféricos,8108
+Gabriel,Headset,Curitiba,2,906,Periféricos,1812
+Eduardo,Webcam,Rio,1,3403,Periféricos,3403
+Ana,Mouse,São Paulo,1,885,Periféricos,885
+Daniela,Headset,São Paulo,2,963,Periféricos,1926
+Carlos,Mouse,Rio,4,1024,Periféricos,4096
+Ana,Webcam,Curitiba,4,1210,Periféricos,4840
+Carlos,Mouse,Rio,4,100,Periféricos,400
+Gabriel,Webcam,São Paulo,3,2933,Periféricos,8799
+Bruno,Webcam,Salvador,1,2357,Periféricos,2357
+Ana,Teclado,Belo Horizonte,3,453,Periféricos,1359
+Daniela,Mouse,São Paulo,5,1748,Periféricos,8740
+Carlos,Notebook,Rio,3,1376,Hardware,4128
+Carlos,Notebook,Rio,1,1318,Hardware,1318
+Daniela,Monitor,Salvador,2,3226,Hardware,6452
+Helena,Headset,São Paulo,4,2520,Periféricos,10080
+Carlos,Notebook,Salvador,3,897,Hardware,2691
+Eduardo,Mouse,São Paulo,5,3402,Periféricos,17010
+Ana,Monitor,Curitiba,1,2056,Hardware,2056
+Eduardo,Teclado,Belo Horizonte,4,3280,Periféricos,13120
+Eduardo,Teclado,São Paulo,5,2846,Periféricos,14230
+Fernanda,Monitor,Curitiba,3,1678,Hardware,5034
+Fernanda,Teclado,São Paulo,4,2439,Periféricos,9756
+Carlos,Webcam,Curitiba,2,2972,Periféricos,5944
+Eduardo,Monitor,Rio,3,1866,Hardware,5598
+Fernanda,Webcam,Rio,4,749,Periféricos,2996
+Bruno,Notebook,Salvador,1,1614,Hardware,1614
+Helena,Teclado,Rio,5,918,Periféricos,4590
+Fernanda,Teclado,Rio,2,3388,Periféricos,6776
+Gabriel,Mouse,Rio,1,1681,Periféricos,1681
+Helena,Monitor,Belo Horizonte,1,2535,Hardware,2535
+Daniela,Teclado,Rio,4,2216,Periféricos,8864
+Daniela,Monitor,Belo Horizonte,2,2703,Hardware,5406
+Daniela,Teclado,Rio,3,486,Periféricos,1458
+Gabriel,Mouse,Salvador,4,2047,Periféricos,8188
+Carlos,Headset,Belo Horizonte,4,3413,Periféricos,13652
+Fernanda,Notebook,São Paulo,1,2675,Hardware,2675
+Gabriel,Headset,Curitiba,3,2934,Periféricos,8802
+Fernanda,Headset,São Paulo,1,2802,Periféricos,2802
+Helena,Webcam,Salvador,2,352,Periféricos,704
+Eduardo,Notebook,Salvador,5,1962,Hardware,9810
+Eduardo,Webcam,Salvador,3,1353,Periféricos,4059
+Daniela,Notebook,Salvador,3,2009,Hardware,6027
+Carlos,Monitor,Belo Horizonte,2,385,Hardware,770
+Daniela,Monitor,Rio,4,1325,Hardware,5300
+Eduardo,Mouse,São Paulo,1,2467,Periféricos,2467
+Eduardo,Teclado,Salvador,4,3194,Periféricos,12776
+Bruno,Monitor,Curitiba,5,209,Hardware,1045
+Daniela,Mouse,São Paulo,4,913,Periféricos,3652
+Helena,Monitor,Curitiba,2,921,Hardware,1842
+Ana,Mouse,São Paulo,2,3231,Periféricos,6462
+Gabriel,Notebook,Salvador,5,1241,Hardware,6205
+Daniela,Headset,Curitiba,5,668,Periféricos,3340
+Fernanda,Monitor,Salvador,2,1627,Hardware,3254
+Carlos,Notebook,São Paulo,2,80,Hardware,160
+Carlos,Webcam,São Paulo,2,2809,Periféricos,5618
+Daniela,Mouse,São Paulo,2,2453,Periféricos,4906
+Ana,Monitor,Salvador,5,2085,Hardware,10425
+Ana,Teclado,Belo Horizonte,4,423,Periféricos,1692
+Bruno,Webcam,Salvador,4,2191,Periféricos,8764
+Ana,Headset,Belo Horizonte,1,3139,Periféricos,3139
+Bruno,Mouse,Belo Horizonte,5,2726,Periféricos,13630
+Eduardo,Notebook,Salvador,2,2200,Hardware,4400
+Carlos,Monitor,Curitiba,1,1020,Hardware,1020
+Bruno,Mouse,São Paulo,1,1457,Periféricos,1457
+Daniela,Mouse,Rio,2,1311,Periféricos,2622
+Gabriel,Monitor,Rio,2,989,Hardware,1978
+Ana,Mouse,Belo Horizonte,3,2198,Periféricos,6594
+Eduardo,Monitor,Rio,5,1984,Hardware,9920
+Fernanda,Headset,Salvador,4,2330,Periféricos,9320
+Carlos,Notebook,Salvador,3,2728,Hardware,8184
+Ana,Teclado,Rio,3,2962,Periféricos,8886
+Ana,Mouse,Salvador,5,1395,Periféricos,6975
+Eduardo,Teclado,São Paulo,2,402,Periféricos,804
+Ana,Notebook,Rio,2,121,Hardware,242
+Gabriel,Notebook,Belo Horizonte,1,620,Hardware,620
+Bruno,Teclado,Belo Horizonte,3,3189,Periféricos,9567
+Ana,Teclado,São Paulo,2,3009,Periféricos,6018
+Daniela,Headset,São Paulo,2,275,Periféricos,550
+Gabriel,Mouse,Curitiba,3,2289,Periféricos,6867
+Eduardo,Mouse,Curitiba,2,1105,Periféricos,2210
+Gabriel,Headset,Curitiba,1,1583,Periféricos,1583
+Fernanda,Headset,São Paulo,1,2082,Periféricos,2082
+Bruno,Headset,Rio,5,2350,Periféricos,11750
+Fernanda,Notebook,Curitiba,2,3009,Hardware,6018
+Carlos,Webcam,Rio,1,2320,Periféricos,2320
+Fernanda,Notebook,Belo Horizonte,5,2900,Hardware,14500
+Ana,Teclado,São Paulo,3,1003,Periféricos,3009

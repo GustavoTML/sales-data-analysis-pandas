@@ -1,0 +1,51 @@
+cliente,produto,cidade,quantidade,preco_unitario
+Eduardo,Teclado,Rio,2,294
+Bruno,Webcam,Curitiba,2,275
+Carlos,Monitor,Curitiba,2,181
+Carlos,Mouse,Salvador,2,233
+Carlos,Mouse,Salvador,3,180
+Carlos,Mouse,Rio,5,396
+Ana,Teclado,Salvador,5,210
+Daniela,Webcam,Belo Horizonte,5,351
+Eduardo,Headset,São Paulo,2,420
+Fernanda,Monitor,Belo Horizonte,1,308
+Daniela,Teclado,Curitiba,3,208
+Gabriel,Headset,Salvador,1,324
+Carlos,Webcam,Curitiba,5,77
+Eduardo,Webcam,Belo Horizonte,1,350
+Carlos,Monitor,Salvador,4,57
+Daniela,Monitor,Salvador,4,410
+Carlos,Webcam,Belo Horizonte,4,484
+Ana,Headset,Belo Horizonte,3,133
+Fernanda,Webcam,Curitiba,5,124
+Fernanda,Monitor,São Paulo,1,192
+Ana,Monitor,Curitiba,3,457
+Carlos,Teclado,Rio,3,242
+Ana,Headset,Curitiba,5,297
+Eduardo,Teclado,Curitiba,4,155
+Eduardo,Monitor,Rio,5,120
+Ana,Mouse,Belo Horizonte,2,136
+Eduardo,Monitor,Salvador,4,74
+Eduardo,Headset,São Paulo,4,77
+Carlos,Monitor,Salvador,3,485
+Eduardo,Headset,Salvador,4,135
+Ana,Webcam,Curitiba,2,74
+Eduardo,Headset,Curitiba,2,81
+Ana,Mouse,São Paulo,4,307
+Bruno,Monitor,São Paulo,5,372
+Bruno,Mouse,Salvador,1,130
+Bruno,Webcam,São Paulo,2,114
+Bruno,Teclado,Salvador,3,285
+Gabriel,Webcam,Salvador,1,446
+Daniela,Mouse,Rio,4,340
+Eduardo,Webcam,Belo Horizonte,5,359
+Carlos,Webcam,Belo Horizonte,5,307
+Bruno,Monitor,Salvador,3,375
+Carlos,Mouse,Rio,1,265
+Bruno,Monitor,Rio,2,270
+Carlos,Monitor,São Paulo,4,415
+Ana,Webcam,Rio,1,380
+Eduardo,Headset,Belo Horizonte,3,157
+Eduardo,Teclado,Salvador,3,476
+Fernanda,Teclado,Salvador,2,169
+Daniela,Mouse,Belo Horizonte,1,69

@@ -1,0 +1,151 @@
+cliente,produto,cidade,quantidade,preco_unitario,data_venda
+Daniela,Headset,Curitiba,3.0,1000.0,2023-05-14
+Gabriel,Teclado,São Paulo,3.0,,2023-05-19
+Carlos,Notebook,Curitiba,5.0,,2023-01-08
+Carlos,Monitor,Curitiba,2.0,500.0,2023-01-04
+Helena,Notebook,Rio,4.0,500.0,2023-04-07
+Fernanda,Teclado,São Paulo,2.0,200.0,2023-03-06
+Bruno,Mouse,Curitiba,2.0,300.0,2023-06-21
+Carlos,Teclado,,2.0,,2023-06-19
+Daniela,Teclado,Rio,4.0,1000.0,2023-03-19
+Gabriel,Teclado,Curitiba,1.0,1000.0,2023-06-10
+Eduardo,Headset,Salvador,4.0,1000.0,2023-02-17
+Eduardo,Teclado,São Paulo,1.0,500.0,2023-02-01
+Helena,Teclado,Salvador,1.0,,2023-04-16
+Helena,Teclado,Curitiba,1.0,500.0,2023-01-16
+Carlos,Mouse,São Paulo,,100.0,2023-01-08
+Eduardo,Notebook,Curitiba,2.0,,2023-03-22
+Fernanda,Notebook,Belo Horizonte,1.0,300.0,2023-03-18
+Daniela,Teclado,Belo Horizonte,2.0,500.0,2023-03-15
+Daniela,Webcam,Belo Horizonte,5.0,100.0,2023-01-03
+Gabriel,Mouse,São Paulo,2.0,100.0,2023-06-21
+Carlos,Notebook,Curitiba,2.0,300.0,2023-03-08
+Ana,Notebook,Rio,1.0,100.0,2023-02-23
+Gabriel,Webcam,Curitiba,4.0,200.0,2023-01-09
+Ana,Headset,São Paulo,4.0,500.0,2023-01-24
+Gabriel,Mouse,Curitiba,2.0,,2023-03-25
+Eduardo,Notebook,Rio,4.0,500.0,2023-03-27
+Bruno,Headset,Rio,3.0,,2023-01-25
+Gabriel,Headset,Rio,5.0,500.0,2023-05-25
+Eduardo,Headset,Belo Horizonte,2.0,500.0,2023-05-19
+Helena,Monitor,São Paulo,4.0,,2023-05-25
+Eduardo,Monitor,Belo Horizonte,2.0,200.0,2023-06-09
+Ana,Monitor,Curitiba,1.0,100.0,2023-02-08
+Carlos,Notebook,Salvador,3.0,500.0,2023-05-14
+Gabriel,,Salvador,5.0,100.0,2023-02-22
+Daniela,,São Paulo,4.0,,2023-06-14
+Bruno,Mouse,Curitiba,,200.0,2023-01-10
+Daniela,Webcam,São Paulo,5.0,1000.0,2023-02-18
+Bruno,Monitor,Salvador,,1000.0,2023-05-15
+Ana,Notebook,Belo Horizonte,2.0,300.0,2023-03-15
+Gabriel,Headset,,3.0,100.0,2023-05-09
+Ana,Monitor,Salvador,2.0,300.0,2023-05-18
+Gabriel,Notebook,Belo Horizonte,4.0,500.0,2023-04-20
+Bruno,Monitor,Belo Horizonte,4.0,500.0,2023-02-02
+Gabriel,Teclado,Salvador,4.0,100.0,2023-02-04
+Carlos,Mouse,Curitiba,5.0,,2023-02-03
+Gabriel,Notebook,São Paulo,5.0,500.0,2023-03-24
+Eduardo,Headset,Curitiba,1.0,100.0,2023-02-28
+Fernanda,Headset,Rio,5.0,,2023-06-11
+Gabriel,Teclado,Curitiba,1.0,200.0,2023-05-17
+Bruno,Teclado,Belo Horizonte,5.0,500.0,2023-02-11
+Carlos,Mouse,Salvador,,100.0,2023-01-25
+Eduardo,,Curitiba,3.0,100.0,2023-04-03
+Fernanda,Monitor,Belo Horizonte,4.0,200.0,2023-04-27
+Carlos,Mouse,Belo Horizonte,3.0,200.0,2023-02-19
+Daniela,Headset,Rio,,1000.0,2023-03-15
+Bruno,Headset,Curitiba,3.0,500.0,2023-03-23
+Helena,Mouse,Curitiba,2.0,300.0,2023-03-06
+Eduardo,Webcam,Belo Horizonte,1.0,1000.0,2023-02-14
+Carlos,Mouse,Belo Horizonte,5.0,200.0,2023-03-22
+Helena,Webcam,Salvador,,100.0,2023-04-08
+Eduardo,Headset,Belo Horizonte,,200.0,2023-01-08
+Gabriel,Headset,Belo Horizonte,1.0,1000.0,2023-03-26
+Carlos,Teclado,Belo Horizonte,,300.0,2023-03-05
+Bruno,Teclado,,1.0,100.0,2023-03-08
+Eduardo,,Curitiba,3.0,500.0,2023-04-17
+Fernanda,Teclado,São Paulo,3.0,1000.0,2023-06-27
+Gabriel,Webcam,Rio,5.0,500.0,2023-02-25
+Daniela,Teclado,São Paulo,2.0,500.0,2023-05-19
+Helena,Teclado,São Paulo,5.0,1000.0,2023-02-18
+Eduardo,Notebook,São Paulo,2.0,,2023-02-08
+Bruno,Notebook,São Paulo,1.0,,2023-06-06
+Ana,,São Paulo,,1000.0,2023-03-02
+Daniela,Headset,Belo Horizonte,5.0,200.0,2023-01-04
+Fernanda,Webcam,Belo Horizonte,4.0,300.0,2023-03-08
+Bruno,,São Paulo,5.0,300.0,2023-01-09
+Daniela,Teclado,Belo Horizonte,5.0,200.0,2023-03-15
+Gabriel,Notebook,Rio,4.0,200.0,2023-06-12
+Daniela,,Salvador,1.0,100.0,2023-01-01
+Ana,Notebook,Belo Horizonte,5.0,100.0,2023-05-30
+Gabriel,Headset,Curitiba,3.0,200.0,2023-06-17
+Carlos,Teclado,Curitiba,3.0,,2023-02-08
+Helena,Monitor,São Paulo,4.0,1000.0,2023-02-20
+Carlos,,Salvador,,100.0,2023-01-25
+Bruno,Webcam,Rio,,100.0,2023-03-18
+Fernanda,Mouse,Rio,,100.0,2023-03-08
+Eduardo,Monitor,Salvador,5.0,1000.0,2023-04-05
+Gabriel,Notebook,Salvador,4.0,200.0,2023-05-31
+Bruno,Webcam,,1.0,1000.0,2023-06-05
+Eduardo,Headset,Belo Horizonte,,1000.0,2023-04-05
+Carlos,Webcam,Belo Horizonte,,300.0,2023-04-08
+Eduardo,Webcam,Salvador,,500.0,2023-02-16
+Carlos,,Belo Horizonte,3.0,1000.0,2023-02-17
+Helena,Teclado,Curitiba,,100.0,2023-04-10
+Gabriel,Mouse,Curitiba,2.0,,2023-02-20
+Helena,Webcam,,3.0,1000.0,2023-02-25
+Helena,Mouse,Salvador,1.0,200.0,2023-01-07
+Fernanda,Teclado,Belo Horizonte,4.0,200.0,2023-04-22
+Eduardo,,Salvador,1.0,500.0,2023-02-23
+Helena,Headset,Belo Horizonte,4.0,1000.0,2023-04-17
+Helena,Webcam,Belo Horizonte,2.0,,2023-05-06
+Carlos,Teclado,Curitiba,2.0,100.0,2023-03-01
+Fernanda,Notebook,Curitiba,1.0,200.0,2023-05-14
+Bruno,Notebook,Rio,1.0,500.0,2023-06-13
+Bruno,Mouse,Salvador,,200.0,2023-06-23
+Bruno,Teclado,Rio,1.0,200.0,2023-06-02
+Eduardo,Monitor,São Paulo,4.0,,2023-03-25
+Ana,,Salvador,,1000.0,2023-05-30
+Eduardo,Headset,Belo Horizonte,3.0,,2023-05-09
+Ana,Webcam,Belo Horizonte,2.0,500.0,2023-01-06
+Bruno,Webcam,Salvador,2.0,300.0,2023-05-03
+Helena,Notebook,Salvador,1.0,200.0,2023-06-13
+Helena,Notebook,,5.0,,2023-02-21
+Helena,Webcam,,2.0,,2023-06-08
+Eduardo,Teclado,Salvador,,,2023-03-12
+Fernanda,Teclado,,1.0,,2023-01-08
+Carlos,Monitor,Salvador,1.0,200.0,2023-05-24
+Daniela,Notebook,Rio,,200.0,2023-01-07
+Bruno,Monitor,Belo Horizonte,4.0,500.0,2023-06-27
+Ana,Teclado,Curitiba,,200.0,2023-01-14
+Daniela,Webcam,Curitiba,1.0,500.0,2023-05-17
+Eduardo,,Salvador,1.0,100.0,2023-04-13
+Gabriel,Monitor,Curitiba,1.0,300.0,2023-01-21
+Fernanda,Teclado,,5.0,200.0,2023-03-29
+Fernanda,Mouse,,,1000.0,2023-03-12
+Carlos,Mouse,Curitiba,1.0,500.0,2023-05-24
+Carlos,Notebook,São Paulo,3.0,300.0,2023-03-08
+Ana,Monitor,Belo Horizonte,1.0,,2023-04-06
+Helena,Mouse,Salvador,1.0,,2023-02-27
+Daniela,Notebook,,2.0,100.0,2023-05-06
+Helena,,São Paulo,1.0,1000.0,2023-04-27
+Gabriel,Headset,Curitiba,,,2023-05-08
+Gabriel,Headset,São Paulo,2.0,300.0,2023-04-16
+Daniela,Monitor,,,1000.0,2023-04-19
+Helena,Webcam,,3.0,200.0,2023-02-21
+Eduardo,Mouse,São Paulo,4.0,500.0,2023-04-23
+Carlos,Monitor,Belo Horizonte,,300.0,2023-05-27
+Carlos,Notebook,,1.0,1000.0,2023-02-01
+Eduardo,,Curitiba,2.0,300.0,2023-05-28
+Carlos,Teclado,São Paulo,2.0,500.0,2023-01-03
+Helena,Notebook,Curitiba,2.0,500.0,2023-03-16
+Helena,Monitor,Rio,4.0,500.0,2023-01-31
+Bruno,Monitor,Curitiba,5.0,300.0,2023-03-13
+Helena,Mouse,,,1000.0,2023-04-05
+Fernanda,,Belo Horizonte,1.0,100.0,2023-06-02
+Ana,Monitor,Salvador,,100.0,2023-02-19
+Helena,Teclado,Curitiba,4.0,100.0,2023-03-08
+Bruno,Webcam,Belo Horizonte,1.0,1000.0,2023-05-20
+Helena,Teclado,Belo Horizonte,5.0,300.0,2023-02-01
+Helena,Notebook,Belo Horizonte,1.0,200.0,2023-01-02
+Carlos,Webcam,Belo Horizonte,5.0,300.0,2023-06-28
